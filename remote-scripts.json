@@ -1,0 +1,10 @@
+{
+  "scripts": [
+    {
+      "name": "ProNet 12 Specific Cookie Cleaner",
+      "url": "https://github.com/BBEU/Pronet/raw/refs/heads/main/ProNet%2012%20Specific%20Cookie%20Cleaner-1.4.user.js",
+      "updateURL": "https://github.com/BBEU/Pronet/raw/refs/heads/main/ProNet%2012%20Specific%20Cookie%20Cleaner-1.4.user.js",
+      "enabled": true
+    }
+  ]
+}
